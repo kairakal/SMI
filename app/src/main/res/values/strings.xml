@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SMI</string>
+    <string name="facebook_app_id">497868970955934</string>
+    <string name="fb_login_protocol_scheme">fb497868970955934</string>
+
+    <string name="com_twitter_sdk_android_CONSUMER_KEY">Xd0NdI0VB3787ehUnpPuXIPvD </string>
+    <string name="com_twitter_sdk_android_CONSUMER_SECRET">6UJBPKmfVkihvZPZqRQLZRbSrsaLQdlAQ1WoIDYmZtDJGDHFU2</string>
+    <string name="custom_log_in_with_twitter">Custom Log in with Twitter</string>
+    <string name="get_profile_image">Fetch Profile Image</string>
+</resources>
